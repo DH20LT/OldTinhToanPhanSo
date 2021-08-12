@@ -1,0 +1,14 @@
+C:\Users\taqua\source\repos\OPPwithC-Sharp\FractionCalculator\obj\Debug\FractionCalculator.csproj.AssemblyReference.cache
+C:\Users\taqua\source\repos\OPPwithC-Sharp\FractionCalculator\obj\Debug\FractionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\taqua\source\repos\OPPwithC-Sharp\FractionCalculator\bin\Debug\FractionCalculator.exe.config
+C:\Users\taqua\source\repos\OPPwithC-Sharp\FractionCalculator\bin\Debug\FractionCalculator.exe
+C:\Users\taqua\source\repos\OPPwithC-Sharp\FractionCalculator\bin\Debug\FractionCalculator.pdb
+C:\Users\taqua\source\repos\OPPwithC-Sharp\FractionCalculator\obj\Debug\FractionCalculator.exe
+C:\Users\taqua\source\repos\OPPwithC-Sharp\FractionCalculator\obj\Debug\FractionCalculator.pdb
+C:\Users\taqua\OneDrive\Programming Project\C-Sharp\FractionCalculator\obj\Debug\FractionCalculator.csproj.AssemblyReference.cache
+C:\Users\taqua\OneDrive\Programming Project\C-Sharp\FractionCalculator\obj\Debug\FractionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\taqua\OneDrive\Programming Project\C-Sharp\FractionCalculator\bin\Debug\FractionCalculator.exe.config
+C:\Users\taqua\OneDrive\Programming Project\C-Sharp\FractionCalculator\bin\Debug\FractionCalculator.exe
+C:\Users\taqua\OneDrive\Programming Project\C-Sharp\FractionCalculator\bin\Debug\FractionCalculator.pdb
+C:\Users\taqua\OneDrive\Programming Project\C-Sharp\FractionCalculator\obj\Debug\FractionCalculator.exe
+C:\Users\taqua\OneDrive\Programming Project\C-Sharp\FractionCalculator\obj\Debug\FractionCalculator.pdb
