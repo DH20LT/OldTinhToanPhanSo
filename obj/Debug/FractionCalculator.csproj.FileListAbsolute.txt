@@ -12,3 +12,10 @@ C:\Users\taqua\OneDrive\Programming Project\C-Sharp\FractionCalculator\bin\Debug
 C:\Users\taqua\OneDrive\Programming Project\C-Sharp\FractionCalculator\bin\Debug\FractionCalculator.pdb
 C:\Users\taqua\OneDrive\Programming Project\C-Sharp\FractionCalculator\obj\Debug\FractionCalculator.exe
 C:\Users\taqua\OneDrive\Programming Project\C-Sharp\FractionCalculator\obj\Debug\FractionCalculator.pdb
+D:\GitHub\SendToTeacher\OldTinhToanPhanSo\bin\Debug\FractionCalculator.exe.config
+D:\GitHub\SendToTeacher\OldTinhToanPhanSo\bin\Debug\FractionCalculator.exe
+D:\GitHub\SendToTeacher\OldTinhToanPhanSo\bin\Debug\FractionCalculator.pdb
+D:\GitHub\SendToTeacher\OldTinhToanPhanSo\obj\Debug\FractionCalculator.csproj.AssemblyReference.cache
+D:\GitHub\SendToTeacher\OldTinhToanPhanSo\obj\Debug\FractionCalculator.csproj.CoreCompileInputs.cache
+D:\GitHub\SendToTeacher\OldTinhToanPhanSo\obj\Debug\FractionCalculator.exe
+D:\GitHub\SendToTeacher\OldTinhToanPhanSo\obj\Debug\FractionCalculator.pdb
