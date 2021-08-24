@@ -9,10 +9,13 @@ namespace FractionCalculator
     class PhanSo
     {
         int TuSo;
+        public int getTuSo(){ return TuSo;}
+        public void setTuSo(int tuSo){ TuSo = tuSo;}
         int MauSo;
+        public int getMauSo(){ return MauSo;}
+        public void setMauSo(int mauSo){ MauSo = mauSo;}
 
-        public static int UocChungLonNhat(int a, int b) // Tìm ra ước chung sai rồi
-        {
+        public static int UocChungLonNhat(int a, int b) { 
             if (a%b == 0)
             {
                 return b;

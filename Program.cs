@@ -43,6 +43,7 @@ namespace FractionCalculator
             int VongLap = 1;
             while (VongLap < 100)
             {
+                Console.Clear();
                 Console.WriteLine("Máy tình Phân số Đơn Giản ({0})",VongLap);
                 Console.WriteLine("   1. Nhập phân số của bạn"); //DONE
                 Console.WriteLine("   2. Hiện các phân số mà tôi vừa nhập"); //DONE
@@ -100,6 +101,7 @@ namespace FractionCalculator
                         }
                     case 2: //Hiện các phân số mà tôi vừa nhập - DONE
                         {
+                            Console.Clear();
                             Console.WriteLine("Phân số thứ nhất là");
                             ps1.xuatPhanSo();
                             Console.WriteLine("------------");
@@ -117,8 +119,10 @@ namespace FractionCalculator
                         }
                     case 3: // Phân Số nghịch đảo - DONE
                         {
+                            Console.Clear();
                             ps1.NghichDao();
                             ps2.NghichDao();
+                            Console.ReadLine();
                             break;
                         }
                     case 4: // Rút gọn phân số - DONE
